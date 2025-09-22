@@ -1,4 +1,0 @@
-com\bajajtask\task\springboot_webhook_app\SpringbootWebhookAppApplication.class
-com\bajajtask\task\springboot_webhook_app\util\JwtUtil.class
-com\bajajtask\task\springboot_webhook_app\config\RestTemplateConfig.class
-com\bajajtask\task\springboot_webhook_app\service\WebhookService.class
